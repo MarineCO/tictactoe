@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroinedor/tictactoe.git"
+    "url": "git+https://github.com/MarineCO/tictactoe.git"
   },
-  "author": "Pipo Bimbo",
+  "author": "MarineCO",
   "license": "",
-  "bugs": {
-    "url": "https://github.com/heroinedor/tictactoe/issues"
-  },
-  "homepage": "https://github.com/heroinedor/tictactoe#readme",
+  "homepage": "https://github.com/MarineCO/tictactoe.git",
   "devDependencies": {
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
